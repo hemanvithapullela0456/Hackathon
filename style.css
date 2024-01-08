@@ -15,7 +15,7 @@ header {
     color: #e8ffa2;
     text-align: center;
     padding: 250px 0;
-    background-image: url("bg3.jpg");
+    background-image: url("../Hackathon/images/bg3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -78,7 +78,7 @@ p {
 .features {
     background-color:white;
     padding: 50px 0;
-    background-image: url("bg.avif");
+    background-image: url("../Hackathon/images/bg.avif");
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -108,9 +108,7 @@ h3{
     color: #fff;
     text-align: center;
     padding: 60px 0;
-    background: linear-gradient(to right, #ad59da, #4100ff);
-    
-    background-image:url("keybg.jpg");
+    background-image:url("../Hackathon/images/keybg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
